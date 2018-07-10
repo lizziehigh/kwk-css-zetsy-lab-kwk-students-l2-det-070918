@@ -17,4 +17,24 @@ body {
 	padding: 0 45px 20px;
 }
 
+p1 {
+  color: #555;
+  font-size: 1em;
+  margin: 0 0 20px 0;
+  
+}
+
+h2{
+  color: rgb(111,127,122);
+  font-size: 2em;
+}
+
+img {
+  border: 5px rgb(152,173,166) solid;
+}
+footer {
+    color: #555;
+    font-size: 1em;
+    margin: 0 0 20px 0;
+}
 /* Write all remaining styles here */
